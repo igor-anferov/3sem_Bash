@@ -1,0 +1,4 @@
+.DS_Store
+*.o
+/MyShell
+/task_5_single_file.c
